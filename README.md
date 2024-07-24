@@ -2,8 +2,6 @@
 
 Hi there! I'm Poorna Chandan Reddy Vavilala, a Full Stack Developer based in United States. Welcome to my GitHub profile! 👋
 
-## About
-
 - 🔭 I’m currently working on Evaluation Portal for Assessments.
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Full Stack
