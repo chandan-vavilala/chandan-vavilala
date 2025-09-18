@@ -22,5 +22,5 @@ Grow into a **Senior Full Stack Engineer** while contributing to impactful, real
 I love solving real-world challenges through code and constantly learning new technologies to stay ahead in the ever-evolving tech world.  
 
 ## 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/chandan-vavilala](#)  
-[![Portfolio](https://www.chandanvavilala.com](#)  
+[![LinkedIn](https://www.linkedin.com/chandan-vavilala)](#)  
+[![Portfolio](https://www.chandanvavilala.com)](#)  
